@@ -18,8 +18,8 @@ This project demonstrates a complete machine learning workflow including:
 ## ⚙️ Installation
 1. Clone the repository:
 ```bash
-git clone <https://github.com/anishkumar63588/Customer-Churn-Prediction-using-Tree-Based-Ensemble-Models>
-cd <Customer-Churn-Prediction-using-Tree-Based-Ensemble-Models>
+git clone https://github.com/anishkumar63588/Customer-Churn-Prediction-using-Tree-Based-Ensemble-Models
+cd Customer-Churn-Prediction-using-Tree-Based-Ensemble-Models
 ```
 
 ## 🚀 Usage
